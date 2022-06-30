@@ -1,12 +1,13 @@
 # World Cup - Exploratory Analysis
 
 ## GOAL
-The Goal for this project is to provide insights to help Mr Francis understand the data generated from his stores and make decisions as to what type of product, market clusters and supermarket type (location, age, size) which will give more margins and profits as he plans to expand to more cities in Nigeria.
+The Goal for this project is to find patterns and trends that are likely to happen again during this year's Qatar 2022 world cup
 
 ## LINKS
-LINK TO PRESENTATION AND INSIGHTS
+[LINK TO INSIGHTS](https://app.powerbi.com/links/neHuvl0p4i?ctid=23c3d449-d0fa-4881-8e4d-892a492c27d8&pbi_source=linkShare)
+
+[Link to Article](https://adewalescrib.hashnode.dev/my-journey-to-becoming-a-data-analyst-continues-project-3)
 
 ## TOOLS
 
 * Microsoft Power Bi
-* GOGGLE-SLIDE
